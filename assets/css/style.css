@@ -19,3 +19,13 @@ input {
 #todoList {
     padding: 0 5%;
 }
+
+label {
+    font-size: 20px;
+}
+
+.page-header, #heading {
+    margin-top: 0px;
+    padding-top: 10px;
+    background: darkgray;
+}
