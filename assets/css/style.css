@@ -1,0 +1,21 @@
+body {
+    background: pink;
+}
+.form-check-label {
+    color: #6f6969;
+}
+
+input {
+    margin: 0px auto;
+    text-align: center;
+    max-width: 50%;
+}
+.btn {
+    display: block;
+    margin: 5px auto;
+    /* background: magenta; */
+}
+
+#todoList {
+    padding: 0 5%;
+}
